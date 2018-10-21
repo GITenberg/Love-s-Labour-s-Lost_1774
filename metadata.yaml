@@ -1,5 +1,5 @@
 _repo: Love-s-Labour-s-Lost_1774
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Comedies'
 - !lcsh 'Courts and courtiers -- Drama'
 - !lcsh 'Navarre (Kingdom) -- Drama'
+- GITenberg
 title: Love's Labour's Lost
 url: http://www.gutenberg.org/ebooks/1774
